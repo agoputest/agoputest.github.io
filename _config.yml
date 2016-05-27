@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Arvind Gopu's test website"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Arvind Gopu"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -37,7 +37,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : arvindgopu
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -61,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Arvind Gopu"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Something about me"
+  location         : "Bloomington, IN"
   email            :
   uri              :
   bitbucket        :
